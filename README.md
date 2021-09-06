@@ -2,15 +2,17 @@
 
 😄 I'm junior front-end developer.  
 
-| 👩🏻‍🏫 Skills | 📸 Hobby |
-| ------ | ------ |
-|HTML, CSS, SCSS|Photograpy|
-|JavaScript, jQuery, ajax  | Web-design [My Behance profile](https://www.behance.net/yulchitaib0e45) |
-|Gulp, Webpack |Yoga |
-|Git,  Jest |  |
-|Adaptive layout (flex/grid) | |
-|Adobe Photoshop, Figma||
+| 👩🏻‍🏫 Skills |
+| ------ | 
+|HTML, CSS, SCSS|
+|JavaScript, jQuery, ajax  | 
+|Gulp, Webpack |
+|Git,  Jest |
+|Adaptive layout (flex/grid) |
+|Adobe Photoshop, Figma|
  
+ 
+
 
 #### 😄 Open to job offers
 📫 Write me by 📧 <a href="mailto:yulchitaiboldireva@gmail.com"> Mail<a> or  💬 [ Telegram](https://t.me/Yulia_Boldyreva)
