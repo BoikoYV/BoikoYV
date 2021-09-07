@@ -13,7 +13,7 @@
 
 
 #### 😇 Open to job offers
-📫 Write me by 📧 <a href="mailto:yulchitaiboldireva@gmail.com"> Mail<a> or  💬 [ Telegram](https://t.me/Yulia_Boldyreva)
+📫 Write me by 📧 <a href="mailto:yulchitaiboldireva@gmail.com"> Mail<a> or  💬 [ Telegram](https://t.me/Yulya_Boiko)
   
 <!-- 
 **BoikoYV/BoikoYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
