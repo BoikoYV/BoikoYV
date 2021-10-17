@@ -12,7 +12,6 @@
 |Adobe Photoshop, Figma|
 
 
-#### 😇 Open to job offers
 📫 Write me by 📧 <a href="mailto:yulchitaiboldireva@gmail.com"> Mail<a> or  💬 [ Telegram](https://t.me/Yulya_Boiko)
   
 <!-- 
