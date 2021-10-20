@@ -6,11 +6,13 @@
 | ------ | 
 |HTML, CSS, SCSS|
 |JavaScript, jQuery, ajax  | 
+|React - basic level(still studying)|
 |Gulp, Webpack |
 |Git,  Jest |
 |Adaptive layout (flex/grid) |
 |Adobe Photoshop, Figma|
 
+Open to work!😇
 
 📫 Write me by 📧 <a href="mailto:yulchitaiboldireva@gmail.com"> Mail<a> or  💬 [ Telegram](https://t.me/Yulya_Boiko)
   
