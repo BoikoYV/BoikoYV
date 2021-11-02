@@ -1,6 +1,7 @@
 <p align=center>👋 <b>Hi there I'm Yulia Boiko</b> 💛</p>
 
-😄 I'm junior front-end developer.  
+😄 I'm junior front-end developer.  Open to work!😇
+
 
  | 👩🏻‍🏫 Skills |
 | ------ | 
@@ -12,10 +13,15 @@
 |Adaptive layout (flex/grid) |
 |Adobe Photoshop, Figma|
 
-Open to work!😇
+
 
 📫 Write me by 📧 <a href="mailto:yulchitaiboldireva@gmail.com"> Mail<a> or  💬 [ Telegram](https://t.me/Yulya_Boiko)
-  
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=BoikoYV alt=BoikoYV/> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=BoikoYV&show_icons=true&include_all_commits=true)](https://github.com/BoikoYV/github-readme-stats)
+
+ 
 <!-- 
 **BoikoYV/BoikoYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
