@@ -48,12 +48,12 @@
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=step_project_doctor-s_schedule_visits&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
 </a>
 
- [![Github stats](https://github-readme-stats.vercel.app/api?username=BoikoYV&show_icons=true&include_all_commits=true)](https://github.com/BoikoYV/github-readme-stats)
+<!--  [![Github stats](https://github-readme-stats.vercel.app/api?username=BoikoYV&show_icons=true&include_all_commits=true)](https://github.com/BoikoYV/github-readme-stats)
  
-<!-- 
-**BoikoYV/BoikoYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  -->
+<!-- **BoikoYV/BoikoYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --> 
 
