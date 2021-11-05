@@ -6,13 +6,13 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/Yulya_Boiko)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=D54B3C)](mailto:yulchitaiboldireva@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yulia-boiko/)
-[![CV Badge](https://img.shields.io/badge/Get_My_CV-informational?style=flat&logo=cv&logoColor=white&color=3749C6)](https://drive.google.com/file/d/1Iy7eUsOk5AP5cn90IQTFvDyHohMcDt7k/view?usp=sharing)
 [![Visits Badge](https://badges.pufler.dev/visits/BoikoYV/BoikoYV)](https://github.com/BoikoYV)
 
 ## Personal information 📝
 I am currently finishing courses on the Front-End Development (React).
 Participated in several commercial projects and have experience of teamwork using Git.
 
+Look at [![CV Badge](https://img.shields.io/badge/My_CV-informational?style=flat&logo=cv&logoColor=white&color=3749C6)](https://drive.google.com/file/d/1Iy7eUsOk5AP5cn90IQTFvDyHohMcDt7k/view?usp=sharing)
 #### Development
 - 💻 In development, I really enjoy creating beautiful user interfaces with interesting functionality, especially using React🚀 to render content very quickly without reloading the page. 
 - I am delighted with beautiful animation in projects, try to use them where it is appropriate.
