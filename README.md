@@ -13,11 +13,11 @@ I am currently finishing courses on the Front-End Development (React).
 Participated in several commercial projects and have experience of teamwork using Git.
 
 #### Development
-- In development, I really enjoy creating beautiful user interfaces with interesting functionality, especially using React to render content very quickly without reloading the page. 
-- I am delighted with beautiful animations in projects, try to use them where it is appropriate.
+- 💻 In development, I really enjoy creating beautiful user interfaces with interesting functionality, especially using React🚀 to render content very quickly without reloading the page. 
+- I am delighted with beautiful animation in projects, try to use them where it is appropriate.
 
 #### Other
-- 👩🏻‍🎨 In addition to development, I am fond of photography and web design🎨. 
+- 🙌 In addition to development, I am fond of photography and web design🎨. 
 - I try to make a nice design for my mini-projects and implement them. I also want to resume uploading my designs to Behance.
 
 Several of my first works can be found here [![Behance Badge](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=0D76A8)](https://www.behance.net/yulchitaib0e45).
