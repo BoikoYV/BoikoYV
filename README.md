@@ -1,23 +1,31 @@
 <p align=center>👋 <b>Hi there I'm Yulia Boiko</b> 💛</p>
 
-😄 I'm junior front-end developer.  Open to work!😇
+😄 I'm junior front-end developer. I will be happy to take part in interesting projects🌈.
+
+## 📫 How to reach me
+[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/Yulya_Boiko)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=D54B3C)](mailto:yulchitaiboldireva@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yulia-boiko/)
 
 
-<!--  | 👩🏻‍🏫 Skills |
-| ------ | 
-|HTML, CSS, SCSS|
-|JavaScript, jQuery, ajax  | 
-|React - basic level(still studying)|
-|Gulp, Webpack |
-|Git,  Jest |
-|Adaptive layout (flex/grid) |
-|Adobe Photoshop, Figma| -->
+## Personal information 📝
+I am currently finishing courses on the Front-End Development (React).
+Participated in several commercial projects and have experience of teamwork using Git.
+
+#### Development
+- In development, I really enjoy creating beautiful user interfaces with interesting functionality, especially using React to render content very quickly without reloading the page. 
+- I am delighted with beautiful animations in projects, try to use them where it is appropriate.
+
+#### Other
+- 👩🏻‍🎨 In addition to development, I am fond of photography and web design🎨. 
+- I try to make a nice design for my mini-projects and implement them. I also want to resume uploading my designs to Behance.
+
+Several of my first works can be found here [![Behance Badge](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=0D76A8)](https://www.behance.net/yulchitaib0e45).
 
 
-📫 Write me by 📧 <a href="mailto:yulchitaiboldireva@gmail.com"> Mail<a> or  💬 [ Telegram](https://t.me/Yulya_Boiko)
- 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yulia-boiko/)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=BoikoYV alt=BoikoYV/> </p>
+Try to emphasize minimalism, naturalness and restraint in my  works. 
+
+
  
  ## Skills 🚀
 
@@ -64,3 +72,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --> 
 
+ <!--  | 👩🏻‍🏫 Skills |
+| ------ | 
+|HTML, CSS, SCSS|
+|JavaScript, jQuery, ajax  | 
+|React - basic level(still studying)|
+|Gulp, Webpack |
+|Git,  Jest |
+|Adaptive layout (flex/grid) |
+|Adobe Photoshop, Figma| -->
