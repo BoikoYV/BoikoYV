@@ -54,9 +54,9 @@ More details about the project and technologies that are used, you can find in R
  <a href="https://github.com/BoikoYV/ToDoList-React">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=ToDoList-React&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/BoikoYV/step_project_doctor-s_schedule_visits">
+<!-- <a href="https://github.com/BoikoYV/step_project_doctor-s_schedule_visits">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=step_project_doctor-s_schedule_visits&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
-</a>
+</a> -->
 <a href="https://github.com/BoikoYV/clercsy">
  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=clercsy&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
 </a>
