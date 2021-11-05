@@ -44,7 +44,9 @@ Try to emphasize minimalism, naturalness and restraint in my  works.
 ![](https://img.shields.io/badge/GitHub-1D1D1D?style=for-the-badge&logo=github&logoColor=fff)
 <!-- ![](https://img.shields.io/badge/Styled%20Components-d06ebe?style=for-the-badge&logo=styled-components&logoColor=white) -->
  
- ## Last Projects📌
+ ## Some of my projects📌
+
+More details about the project and technologies that are used, you can find in README.md file of each project.
 
 <a href="https://github.com/BoikoYV/online-shop-react">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=online-shop-react&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
@@ -52,8 +54,11 @@ Try to emphasize minimalism, naturalness and restraint in my  works.
  <a href="https://github.com/BoikoYV/ToDoList-React">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=ToDoList-React&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
 </a>
- <a href="https://github.com/BoikoYV/step_project_doctor-s_schedule_visits">
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=step_project_doctor-s_schedule_visits&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
+<a href="https://github.com/BoikoYV/step_project_doctor-s_schedule_visits">
+ <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=step_project_doctor-s_schedule_visits&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/BoikoYV/clercsy">
+ <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BoikoYV&repo=clercsy&title_color=ffffff&text_color=c9cacc&icon_color=pink&bg_color=1A2B34" />
 </a>
 
 <!--  [![Github stats](https://github-readme-stats.vercel.app/api?username=BoikoYV&show_icons=true&include_all_commits=true)](https://github.com/BoikoYV/github-readme-stats)
