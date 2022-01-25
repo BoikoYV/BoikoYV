@@ -9,10 +9,10 @@
 [![Visits Badge](https://badges.pufler.dev/visits/BoikoYV/BoikoYV)](https://github.com/BoikoYV)
 
 ## Personal information 📝
-I am currently finishing courses on the Front-End Development (React).
+<!-- I am currently finishing courses on the Front-End Development (React).
 Participated in several commercial projects and have experience of teamwork using Git.
 
-Look at [![CV Badge](https://img.shields.io/badge/My_CV-informational?style=flat&logo=cv&logoColor=white&color=3749C6)](https://drive.google.com/file/d/1sQhLW9jYuLhDhlk3zBnhCHbmKHPHJlaL/view?usp=sharing)
+Look at [![CV Badge](https://img.shields.io/badge/My_CV-informational?style=flat&logo=cv&logoColor=white&color=3749C6)](https://drive.google.com/file/d/1sQhLW9jYuLhDhlk3zBnhCHbmKHPHJlaL/view?usp=sharing) -->
 #### Development
 - 💻 In development, I really enjoy creating beautiful user interfaces with interesting functionality, especially using React🚀 to render content very quickly without reloading the page. 
 - I am delighted with beautiful animation in projects, try to use them where it is appropriate.
