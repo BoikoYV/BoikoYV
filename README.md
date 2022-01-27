@@ -1,5 +1,6 @@
 <p align=center>👋 <b>Hi there I'm Yulia Boiko</b> 💛</p>
 
+<!-- <img width="200" src="https://i.pinimg.com/originals/58/72/58/58725865c95fe20cfc595725fca0d6a3.gif"> -->
 😄 I'm junior front-end developer. I will be happy to take part in interesting projects🌈.
 
 ## 📫 How to reach me
@@ -78,9 +79,6 @@ More details about the project and technologies that are used, you can find in R
 
 <!--  [![Github stats](https://github-readme-stats.vercel.app/api?username=BoikoYV&show_icons=true&include_all_commits=true)](https://github.com/BoikoYV/github-readme-stats)
  
-<!--  -->
-<!-- **BoikoYV/BoikoYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
