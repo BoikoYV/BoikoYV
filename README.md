@@ -38,6 +38,7 @@ Try to emphasize minimalism, naturalness and restraint in all my projects.
 ![](https://img.shields.io/badge/StyledComponents-D76B8D?style=for-the-badge&logo=StyledComponents&logoColor=white)
 ![](https://img.shields.io/badge/Mui-0F7AF7?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/Redux-774ABD?style=for-the-badge&logo=redux&logoColor=fff)
+![](https://img.shields.io/badge/Formik-0850C7?style=for-the-badge&logo=formik&logoColor=fff)
 ![](https://img.shields.io/badge/Gulp-CB4545?style=for-the-badge&logo=gulp&logoColor=fff)
 ![](https://img.shields.io/badge/Webpack-89CFF3?style=for-the-badge&logo=webpack&logoColor=000)
 ![](https://img.shields.io/badge/Jest-C21225?style=for-the-badge&logo=jest&logoColor=white)
