@@ -33,25 +33,15 @@ Try to emphasize minimalism, naturalness and restraint in all my projects.
  
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-EFD53C?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/typescript-3074C0?style=for-the-badge&logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Jss-F7DF1C?style=for-the-badge&logo=jss&logoColor=black)
 ![](https://img.shields.io/badge/StyledComponents-D76B8D?style=for-the-badge&logo=StyledComponents&logoColor=white)
 ![](https://img.shields.io/badge/Mui-0F7AF7?style=for-the-badge&logo=mui&logoColor=white)
-![](https://img.shields.io/badge/Redux-774ABD?style=for-the-badge&logo=redux&logoColor=fff)
-![](https://img.shields.io/badge/Formik-0850C7?style=for-the-badge&logo=formik&logoColor=fff)
-![](https://img.shields.io/badge/Gulp-CB4545?style=for-the-badge&logo=gulp&logoColor=fff)
-![](https://img.shields.io/badge/Webpack-89CFF3?style=for-the-badge&logo=webpack&logoColor=000)
 ![](https://img.shields.io/badge/Jest-C21225?style=for-the-badge&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/Mongodb-14A54D?style=for-the-badge&logo=Mongodb&logoColor=white)
-![](https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&logo=figma&logoColor=fff)
-![](https://img.shields.io/badge/Photoshop-2FA4F6?style=for-the-badge&logo=photoshop&logoColor=fff)
-
-### Currently learning 📘
-
-![](https://img.shields.io/badge/typescript-3074C0?style=for-the-badge&logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/mobx-E26417?style=for-the-badge&logo=mobx&logoColor=fff)
 ![](https://img.shields.io/badge/graphql-DA0394?style=for-the-badge&logo=graphql&logoColor=fff)
-![](https://img.shields.io/badge/storybook-F74481?style=for-the-badge&logo=storybook&logoColor=fff)
+![](https://img.shields.io/badge/storybook-F74481?style=for-the-badge&logo=storybook&logoColor=fff)![](https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&logo=figma&logoColor=fff)
 
 <!-- Пока неуместные теги -->
 <!-- ![](https://img.shields.io/badge/GitHub-1D1D1D?style=for-the-badge&logo=github&logoColor=fff) -->
