@@ -1,7 +1,7 @@
 <p align=center>👋 <b>Hi there I'm Yulia Boiko</b> 💛</p>
 
 <!-- <img width="200" src="https://i.pinimg.com/originals/58/72/58/58725865c95fe20cfc595725fca0d6a3.gif"> -->
-😄 I'm junior front-end developer. I will be happy to take part in interesting projects🌈.
+😄 I'm Front-End developer. I will be happy to take part in interesting projects🌈.
 
 ## 📫 How to reach me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&logoColor=white&color=1086CA)](https://t.me/Yulya_Boiko)
